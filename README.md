@@ -3,11 +3,21 @@
 
 ## Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamapusaha&theme=dark&hide_border=true&card_width=1000)](https://git.io/streak-stats)
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=iamapusaha&theme=dark&hide_border=true" alt="GitHub Streak stats">
-  </a>
-</p>
+
+## Get through to me
+<!-- display the social media buttons in your README -->
+
+[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
+
+<!-- To Link your profile to the media buttons -->
+
+[1]: https://www.facebook.com/apusahainfo
+[2]: https://www.instagram.com/apusaha_unofficial/
+[3]: https://twitter.com/iamapusaha
+[4]: https://www.linkedin.com/in/apusaha/
 
 
 **iamapusaha/iamapusaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
