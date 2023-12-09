@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/iamapusaha/iamapusaha/blob/main/assets/Apu_Saha.png?raw=true)
 
 **iamapusaha/iamapusaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
