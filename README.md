@@ -36,7 +36,7 @@
 ## project
 
 ### Survey Sphere
-live link: https://polling-and-survey.web.app/
+Live link: https://polling-and-survey.web.app/
 
 Key Features: “SurveySphere” is a dynamic polling platform where users can vote on
 surveys created by admins. It offers a premium service for enhanced features and a
@@ -45,3 +45,11 @@ user-friendly dashboard for easy management.
 Technology: JavaScript, React, Node.js ,Express.js, MongoDB, Firebase, Vercel,JWT, Transact
 Query, Mongoose,Moment.js, and Tailwind CSS.
 
+### Part Time
+Live link: https://part-time-8e650.web.app/
+Key Features: “Part Time” is a dynamic marketplace connecting freelancers with clients.
+Users can post jobs, freelancers bid, and clients select the best fit. Work progress is
+transparently tracked for all parties.
+
+Technology: Tailwind CSS, Daiyui, Framer Motion, JavaScript, React, Node.js, Express.js,
+MongoDB, Firebase and Vercel.
