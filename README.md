@@ -2,17 +2,20 @@
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/iamapusaha/iamapusaha/blob/main/assets/Apu_Saha.png?raw=true)
 
 ## In Connection with Me
-```html
-<div class="diff aspect-[16/9]">
-  <div class="diff-item-1">
-    <div class="bg-primary text-primary-content text-9xl font-black grid place-content-center">DAISY</div>
-  </div>
-  <div class="diff-item-2">
-    <div class="bg-base-200 text-9xl font-black grid place-content-center">DAISY</div>
-  </div>
-  <div class="diff-resizer"></div>
-</div>
+ <p align="center">
+  <font size="6">
+    I am Apu Saha
+  </font>
+</p>
+<p align="center">
+  <font size="3">
+    A Developer with a deep affection for Tailwind, React JS, Node JS, and MongoDB
+  </font>
+</p>
 
+<p>
+Embarking on a journey in the tech world, I’ve honed my skills in various areas. Recently, I’ve found a new love for backend development, and I’m eager to explore this area further. However, my quest for knowledge doesn’t stop there. I firmly believe in the power of teamwork and the learning opportunities it provides. Sharing my knowledge with others is something I find truly rewarding. Always learning, always growing, and always ready for the next challenge.
+</p>
 
 ## Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamapusaha&theme=dark&hide_border=true&card_width=1000)](https://git.io/streak-stats)
