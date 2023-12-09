@@ -1,6 +1,19 @@
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/iamapusaha/iamapusaha/blob/main/assets/Apu_Saha.png?raw=true)
 
+## In Connection with Me
+```html
+<div class="diff aspect-[16/9]">
+  <div class="diff-item-1">
+    <div class="bg-primary text-primary-content text-9xl font-black grid place-content-center">DAISY</div>
+  </div>
+  <div class="diff-item-2">
+    <div class="bg-base-200 text-9xl font-black grid place-content-center">DAISY</div>
+  </div>
+  <div class="diff-resizer"></div>
+</div>
+
+
 ## Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamapusaha&theme=dark&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 
@@ -57,6 +70,7 @@ MongoDB, Firebase and Vercel.
 
 ### Car Hut
 Live link: https://car-hut-2f931.web.app/
+
 Key Features: “Part Time” is a dynamic marketplace connecting freelancers with clients.
 Users can post jobs, freelancers bid, and clients select the best fit. Work progress is
 transparently tracked for all parties.
