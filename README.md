@@ -19,7 +19,12 @@
 [3]: https://twitter.com/iamapusaha
 [4]: https://www.linkedin.com/in/apusaha/
 
-
+## Technologies I’m familiar with
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite,node,express,mongodb,firebase,vercel" />
+  </a>
+</p>
 **iamapusaha/iamapusaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
