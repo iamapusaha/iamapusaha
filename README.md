@@ -47,9 +47,19 @@ Query, Mongoose,Moment.js, and Tailwind CSS.
 
 ### Part Time
 Live link: https://part-time-8e650.web.app/
+
 Key Features: “Part Time” is a dynamic marketplace connecting freelancers with clients.
 Users can post jobs, freelancers bid, and clients select the best fit. Work progress is
 transparently tracked for all parties.
 
 Technology: Tailwind CSS, Daiyui, Framer Motion, JavaScript, React, Node.js, Express.js,
 MongoDB, Firebase and Vercel.
+
+### Car Hut
+Live link: https://car-hut-2f931.web.app/
+Key Features: “Part Time” is a dynamic marketplace connecting freelancers with clients.
+Users can post jobs, freelancers bid, and clients select the best fit. Work progress is
+transparently tracked for all parties.
+Technology: HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, Express.js, MongoDB,
+Firebase, and Vercel.
+
