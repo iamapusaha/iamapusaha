@@ -3,9 +3,9 @@
 
 ## In Connection with Me
  <p align="center">
-  <font size="6">
-    I am Apu Saha
-  </font>
+  
+   ## I am Apu Saha
+  
 </p>
 <p align="center">
   <font size="3">
