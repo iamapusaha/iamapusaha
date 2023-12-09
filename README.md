@@ -33,3 +33,14 @@
 - 🤔 I’m seeking assistance to enhance my skills in web development. 
 - ⚡ Interesting tidbit: I enjoy tackling human challenges through coding, and then embark on a journey of discovery.
 
+## project
+
+### Survey Sphere
+live link: https://polling-and-survey.web.app/
+
+Key Features: “SurveySphere” is a dynamic polling platform where users can vote on
+surveys created by admins. It offers a premium service for enhanced features and a
+user-friendly dashboard for easy management.
+Technology: JavaScript, React, Node.js ,Express.js, MongoDB, Firebase, Vercel,JWT, Transact
+Query, Mongoose,Moment.js, and Tailwind CSS.
+
