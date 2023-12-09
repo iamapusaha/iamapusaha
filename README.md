@@ -2,7 +2,7 @@
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/iamapusaha/iamapusaha/blob/main/assets/Apu_Saha.png?raw=true)
 
 ## Current Stats
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamapusaha&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamapusaha&theme=dark&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=iamapusaha&theme=dark&hide_border=true" alt="GitHub Streak stats">
